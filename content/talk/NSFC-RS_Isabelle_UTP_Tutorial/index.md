@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary: "A Isabelle/UTP tutorial to the students in the computer science in Southwest University during three-days' workshop. The tutorial is about 1 day (two afternoon)."
-abstract: "This tutorial cover three main topics: functional programming with Isabelle/HOL, imperative programming with Isabelle/UTP, and reactive programming with Isabelle/UTP."
+abstract: "This tutorial covers three main topics: functional programming with Isabelle/HOL, imperative programming with Isabelle/UTP, and reactive programming with Isabelle/UTP."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
