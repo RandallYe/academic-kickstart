@@ -13,3 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+{{<raw>}}
+<a href="http://www.sosym.org/" target="_blank">
+<img src="http://www.sosym.org/banner/sosymaut.jpg">
+</a> 
+{{</raw>}}
