@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "RoboCalc (April 2018 - March 2021)"
-summary: "[RoboCalc](https://www.cs.york.ac.uk/circus/RoboCalc/) is a EPSRC funded project. It is also a [RoboStar](https://www.cs.york.ac.uk/robostar/) project."
+title: "RoboTest (April 2021 - Present)"
+summary: "[RoboTest](https://robostar.cs.york.ac.uk/) is a EPSRC funded project. It is also a [RoboStar](https://robostar.cs.york.ac.uk/) project."
 authors: []
 tags: ["Robotics", "Formal Verification", "Formal Reasoning", "Modelling", "Simulation", "Test", "Probability"]
 categories: []
-date: 2018-05-11T13:34:52+01:00
+date: 2021-11-05T13:34:52+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
